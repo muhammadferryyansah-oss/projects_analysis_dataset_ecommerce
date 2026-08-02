@@ -15,7 +15,7 @@ Project ini bertujuan untuk menganalisis performa penjualan e-commerce, tren tra
 ## 💡 Key Business Insights
 1. **Top Revenue Product:** Produk *Printer* dan *Chair* menyumbang omzet terbesar bagi bisnis.
 2. **Payment Trend:** Metode pembayaran digital (*E-Wallet / Online*) menjadi pilihan utama mayoritas pelanggan.
-3. **Sales Trend:** Terjadi puncaknya penjualan pada periode waktu [Sebutkan Bulan/Tahun].
+3. **Sales Trend:** Terjadi puncaknya penjualan pada periode waktu [Bulan JULI/Tahun 2024].
 
 ## 📂 File Structure
 - `sql/`: Berisi skrip SQL lengkap mulai dari perbaikan tipe data hingga query analisis.
